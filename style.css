@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+}
+
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    z-index: 10;
+    cursor: pointer;
+    position: fixed;
+    width: 100%;
+}
+
+.links {
+    float: center;
+    font-size: 30px;
+    font-family: fantasy;
+    color: dodgerblue;
+    display: inline;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
